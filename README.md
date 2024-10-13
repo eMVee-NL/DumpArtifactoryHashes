@@ -22,7 +22,7 @@ Misusing dumpArtifactoryHashes can result in serious consequences, including but
 - Harm to innocent parties
 
 #### Limitation of Liability
-The author and maintainer of BPG disclaim any responsibility for the actions of users who choose to misuse this tool. By using dumpArtifactoryHashes, you acknowledge that you are solely responsible for your actions and the consequences that may result from them.
+The author and maintainer of dumpArtifactoryHashes disclaim any responsibility for the actions of users who choose to misuse this tool. By using dumpArtifactoryHashes, you acknowledge that you are solely responsible for your actions and the consequences that may result from them.
 
 #### Ethical Use
 dumpArtifactoryHashes should only be used in accordance with applicable laws and regulations, and in a manner that is consistent with ethical guidelines and standards. 
